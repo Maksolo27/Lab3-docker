@@ -15,6 +15,8 @@ Run it in docker
 ``docker run -p 8080:8080 springio/gs-spring-boot-docker``
 
 Dependencies:
+
 Spring-boot
+
 Spring-boot-web
   
